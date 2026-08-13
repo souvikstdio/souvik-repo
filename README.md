@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**souvik-repo/souvik-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**souvikstdio/souvikstdio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
